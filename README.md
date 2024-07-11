@@ -27,5 +27,6 @@
 - 网页样式在 src/index.tsx 下，分出六个标签都在leaderboardLib.tsx下
 
 # Action部署：
+  确保 Settings > Pages > Build and deployment > Source 变为 GitHub Actions
   在Actions上选择Node.js，点击Set up this workflow
-  描述好绑定的分支，新的修改后如何变动，部署流程等，参考https://docs.github.com/en/actions
+  在workflows下yml文件中描述好绑定的分支，新的修改后如何变动，部署流程等，参考https://docs.github.com/en/actions
