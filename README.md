@@ -1,3 +1,4 @@
+- 成品：https://starnight531.github.io/leaderboard/
 # 本地依赖项：
 - 下载npm工具后使用npm将react-scripts下载到当前目录下：
 
